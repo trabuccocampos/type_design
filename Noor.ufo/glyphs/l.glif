@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l" format="1">
-  <advance width="600"/>
+  <advance width="305"/>
   <unicode hex="006C"/>
   <outline>
+    <contour>
+      <point x="110" y="46" type="line"/>
+      <point x="200" y="46" type="line"/>
+      <point x="200" y="727" type="line"/>
+      <point x="110" y="727" type="line"/>
+    </contour>
+    <component base="Serif_lc" xOffset="45"/>
+    <component base="SerifSpur" xOffset="54" yOffset="300"/>
   </outline>
 </glyph>
