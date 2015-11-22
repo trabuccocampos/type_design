@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="SerifCaps" format="1">
-  <advance width="270"/>
+  <advance width="260"/>
   <outline>
     <contour>
-      <point x="270" y="0" type="line"/>
-      <point x="270" y="20" type="line"/>
-      <point x="220" y="29" type="line"/>
-      <point x="204" y="33"/>
-      <point x="195" y="39"/>
-      <point x="195" y="58" type="curve"/>
+      <point x="260" y="0" type="line"/>
+      <point x="260" y="20" type="line"/>
+      <point x="210" y="29" type="line"/>
+      <point x="194" y="33"/>
+      <point x="185" y="39"/>
+      <point x="185" y="58" type="curve"/>
       <point x="75" y="58" type="line"/>
       <point x="75" y="39"/>
       <point x="66" y="33"/>
@@ -17,11 +17,11 @@
       <point x="0" y="0" type="line"/>
       <point x="65" y="0" type="line"/>
       <point x="85" y="0"/>
-      <point x="114" y="4"/>
-      <point x="134" y="4" type="curve"/>
-      <point x="154" y="4"/>
-      <point x="185" y="0"/>
-      <point x="205" y="0" type="curve"/>
+      <point x="109" y="4"/>
+      <point x="129" y="4" type="curve"/>
+      <point x="149" y="4"/>
+      <point x="175" y="0"/>
+      <point x="195" y="0" type="curve"/>
     </contour>
   </outline>
 </glyph>
