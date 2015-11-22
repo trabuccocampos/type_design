@@ -10,6 +10,6 @@
       <point x="110" y="727" type="line"/>
     </contour>
     <component base="Serif_lc" xOffset="45"/>
-    <component base="SerifSpur" xOffset="54" yOffset="300"/>
+    <component base="SerifSpur" xOffset="54" yOffset="290"/>
   </outline>
 </glyph>

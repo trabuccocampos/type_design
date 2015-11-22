@@ -9,8 +9,22 @@
       <point x="254" y="445" type="line"/>
       <point x="164" y="445" type="line"/>
     </contour>
-    <component base="Serif_lc" xOffset="109"/>
+    <contour>
+      <point x="222" y="422" type="move"/>
+      <point x="222" y="393" type="line"/>
+    </contour>
+    <contour>
+      <point x="327" y="479" type="move" smooth="yes"/>
+      <point x="376" y="479"/>
+      <point x="430" y="447"/>
+      <point x="467" y="421" type="curve"/>
+      <point x="493" y="509" type="line"/>
+      <point x="419" y="509"/>
+      <point x="391" y="509"/>
+      <point x="327" y="509" type="curve" smooth="yes"/>
+    </contour>
     <component base="SerifSpur" xOffset="108"/>
+    <component base="Serif_lc_long" xOffset="99"/>
   </outline>
   <lib>
     <dict>

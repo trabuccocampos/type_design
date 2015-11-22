@@ -24,6 +24,6 @@
       <point x="155" y="572" type="curve" smooth="yes"/>
     </contour>
     <component base="Serif_lc" xOffset="45"/>
-    <component base="SerifSpur" xOffset="54" yOffset="10"/>
+    <component base="SerifSpur" xOffset="54"/>
   </outline>
 </glyph>

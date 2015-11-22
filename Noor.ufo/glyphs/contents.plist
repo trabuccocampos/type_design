@@ -54,6 +54,8 @@
 	<string>S_erifS_pur.glif</string>
 	<key>Serif_lc</key>
 	<string>S_erif_lc.glif</string>
+	<key>Serif_lc_long</key>
+	<string>S_erif_lc_long.glif</string>
 	<key>T</key>
 	<string>T_.glif</string>
 	<key>U</key>
