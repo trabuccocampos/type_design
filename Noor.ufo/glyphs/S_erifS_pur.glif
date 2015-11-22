@@ -5,9 +5,9 @@
     <contour>
       <point x="126" y="510" type="line"/>
       <point x="-10" y="438" type="line"/>
-      <point x="-10" y="422" type="line"/>
-      <point x="36" y="412" type="line"/>
-      <point x="48" y="408"/>
+      <point x="-10" y="418" type="line"/>
+      <point x="36" y="408" type="line"/>
+      <point x="48" y="404"/>
       <point x="56" y="399"/>
       <point x="56" y="389" type="curve"/>
       <point x="146" y="390" type="line"/>
@@ -16,6 +16,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>Regular Nov 21 15, 19:48</key>
@@ -358,6 +360,8 @@
           <integer>156</integer>
         </dict>
       </dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

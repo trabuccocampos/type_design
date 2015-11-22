@@ -26,9 +26,11 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>Regular Nov 22 15, 10:57</key>
+        <key>height 15</key>
         <dict>
           <key>anchors</key>
           <array>
@@ -230,6 +232,8 @@
           <integer>250</integer>
         </dict>
       </dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

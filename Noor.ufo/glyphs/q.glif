@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="q" format="1">
-  <advance width="630"/>
+  <advance width="625"/>
   <unicode hex="0071"/>
   <outline>
     <contour>
@@ -38,6 +38,26 @@
       <point x="441" y="379" type="curve"/>
       <point x="472" y="442" type="line"/>
     </contour>
-    <component base="Serif_lc_long" xOffset="585" yOffset="-200" xScale="-1"/>
+    <contour>
+      <point x="430" y="-200"/>
+      <point x="455" y="-195"/>
+      <point x="475" y="-195" type="curve"/>
+      <point x="495" y="-195"/>
+      <point x="520" y="-200"/>
+      <point x="550" y="-200" type="curve"/>
+      <point x="585" y="-200" type="line"/>
+      <point x="585" y="-180" type="line"/>
+      <point x="545" y="-173" type="line"/>
+      <point x="525" y="-168"/>
+      <point x="520" y="-163"/>
+      <point x="520" y="-147" type="curve"/>
+      <point x="430" y="-147" type="line"/>
+      <point x="430" y="-163"/>
+      <point x="416" y="-170"/>
+      <point x="395" y="-173" type="curve"/>
+      <point x="335" y="-180" type="line"/>
+      <point x="335" y="-200" type="line"/>
+      <point x="400" y="-200" type="line"/>
+    </contour>
   </outline>
 </glyph>

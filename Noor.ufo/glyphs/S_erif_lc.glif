@@ -3,7 +3,7 @@
   <advance width="220"/>
   <outline>
     <contour>
-      <point x="217" y="0" type="line"/>
+      <point x="220" y="0" type="line"/>
       <point x="220" y="20" type="line"/>
       <point x="180" y="27" type="line"/>
       <point x="160" y="32"/>
@@ -14,7 +14,7 @@
       <point x="60" y="32"/>
       <point x="40" y="27" type="curve"/>
       <point x="0" y="20" type="line"/>
-      <point x="3" y="0" type="line"/>
+      <point x="0" y="0" type="line"/>
       <point x="35" y="0" type="line"/>
       <point x="65" y="0"/>
       <point x="90" y="5"/>
@@ -26,6 +26,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>height 15</key>
@@ -431,6 +433,8 @@
           <integer>220</integer>
         </dict>
       </dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>
