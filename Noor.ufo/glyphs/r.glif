@@ -10,18 +10,20 @@
       <point x="164" y="445" type="line"/>
     </contour>
     <contour>
-      <point x="222" y="422" type="move"/>
-      <point x="222" y="393" type="line"/>
-    </contour>
-    <contour>
-      <point x="327" y="479" type="move" smooth="yes"/>
-      <point x="376" y="479"/>
-      <point x="430" y="447"/>
-      <point x="467" y="421" type="curve"/>
-      <point x="493" y="509" type="line"/>
-      <point x="419" y="509"/>
-      <point x="391" y="509"/>
-      <point x="327" y="509" type="curve" smooth="yes"/>
+      <point x="373" y="460"/>
+      <point x="402" y="459"/>
+      <point x="484" y="413" type="curve"/>
+      <point x="513" y="500" type="line"/>
+      <point x="464" y="508"/>
+      <point x="427" y="510"/>
+      <point x="368" y="510" type="curve" smooth="yes"/>
+      <point x="304" y="510"/>
+      <point x="248" y="455"/>
+      <point x="202" y="402" type="curve"/>
+      <point x="202" y="353" type="line"/>
+      <point x="232" y="394"/>
+      <point x="268" y="460"/>
+      <point x="337" y="460" type="curve" smooth="yes"/>
     </contour>
     <component base="SerifSpur" xOffset="108"/>
     <component base="Serif_lc_long" xOffset="99"/>
