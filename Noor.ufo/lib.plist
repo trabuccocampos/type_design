@@ -10,6 +10,10 @@
 			<integer>40</integer>
 			<key>HV</key>
 			<integer>110</integer>
+			<key>OH</key>
+			<integer>42</integer>
+			<key>OV</key>
+			<integer>120</integer>
 			<key>nV</key>
 			<integer>90</integer>
 			<key>nd</key>

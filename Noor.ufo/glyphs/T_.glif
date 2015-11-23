@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="1">
-  <advance width="600"/>
+  <advance width="702"/>
   <unicode hex="0054"/>
   <outline>
+    <contour>
+      <point x="406" y="20" type="line"/>
+      <point x="406" y="680" type="line"/>
+      <point x="296" y="680" type="line"/>
+      <point x="296" y="20" type="line"/>
+    </contour>
+    <contour>
+      <point x="647" y="569" type="line"/>
+      <point x="667" y="569" type="line"/>
+      <point x="667" y="700" type="line"/>
+      <point x="416" y="700" type="line"/>
+      <point x="305" y="700" type="line"/>
+      <point x="306" y="660" type="line"/>
+      <point x="613" y="660" type="line"/>
+      <point x="621" y="660"/>
+      <point x="629" y="652"/>
+      <point x="633" y="640" type="curve"/>
+    </contour>
+    <contour>
+      <point x="73" y="652"/>
+      <point x="81" y="660"/>
+      <point x="89" y="660" type="curve"/>
+      <point x="396" y="660" type="line"/>
+      <point x="397" y="700" type="line"/>
+      <point x="286" y="700" type="line"/>
+      <point x="35" y="700" type="line"/>
+      <point x="35" y="569" type="line"/>
+      <point x="55" y="569" type="line"/>
+      <point x="69" y="640" type="line"/>
+    </contour>
+    <component base="SerifCaps" xOffset="221"/>
   </outline>
 </glyph>
