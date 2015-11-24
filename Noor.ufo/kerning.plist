@@ -2,10 +2,17 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>R</key>
+	<dict>
+		<key>V</key>
+		<integer>-100</integer>
+	</dict>
 	<key>V</key>
 	<dict>
 		<key>A</key>
 		<integer>-200</integer>
+		<key>o</key>
+		<integer>-120</integer>
 	</dict>
 	<key>a</key>
 	<dict>
@@ -47,8 +54,15 @@
 		<key>v</key>
 		<integer>-45</integer>
 	</dict>
+	<key>quotesingle</key>
+	<dict>
+		<key>m</key>
+		<integer>-40</integer>
+	</dict>
 	<key>r</key>
 	<dict>
+		<key>a</key>
+		<integer>-35</integer>
 		<key>d</key>
 		<integer>-30</integer>
 		<key>e</key>
@@ -70,6 +84,10 @@
 	<dict>
 		<key>a</key>
 		<integer>-30</integer>
+		<key>hyphen</key>
+		<integer>-60</integer>
+		<key>period</key>
+		<integer>-120</integer>
 	</dict>
 </dict>
 </plist>

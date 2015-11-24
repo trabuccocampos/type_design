@@ -155,6 +155,11 @@
 		<string>SerifCaps</string>
 		<string>Serif_lc</string>
 		<string>SerifSpur</string>
+		<string>comma</string>
+		<string>period</string>
+		<string>quotesingle</string>
+		<string>hyphen</string>
+		<string>ampersand</string>
 		<string>Serif_lc_long</string>
 	</array>
 </dict>
