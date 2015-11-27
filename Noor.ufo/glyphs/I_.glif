@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="I" format="1">
-  <advance width="370"/>
+  <advance width="360"/>
   <unicode hex="0049"/>
   <outline>
     <contour>
@@ -32,4 +32,12 @@
     </contour>
     <component base="SerifCaps" xOffset="50"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
 </glyph>

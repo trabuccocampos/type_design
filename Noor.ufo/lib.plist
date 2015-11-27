@@ -155,10 +155,21 @@
 		<string>SerifCaps</string>
 		<string>Serif_lc</string>
 		<string>SerifSpur</string>
+		<string>colon</string>
 		<string>comma</string>
+		<string>ellipsis</string>
 		<string>period</string>
 		<string>quotesingle</string>
+		<string>semicolon</string>
+		<string>emdash</string>
+		<string>endash</string>
 		<string>hyphen</string>
+		<string>quotedblbase</string>
+		<string>quotedblleft</string>
+		<string>quotedblright</string>
+		<string>quoteleft</string>
+		<string>quoteright</string>
+		<string>quotesinglbase</string>
 		<string>ampersand</string>
 		<string>Serif_lc_long</string>
 	</array>

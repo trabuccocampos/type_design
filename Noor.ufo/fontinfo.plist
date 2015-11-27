@@ -9,7 +9,7 @@
 	<key>copyright</key>
 	<string>A.A. Trabucco-Campos All right reserved 2015</string>
 	<key>descender</key>
-	<integer>-200</integer>
+	<integer>-250</integer>
 	<key>familyName</key>
 	<string>Noor</string>
 	<key>openTypeHeadCreated</key>
@@ -39,8 +39,8 @@
 	</array>
 	<key>postscriptOtherBlues</key>
 	<array>
-		<integer>-210</integer>
-		<integer>-200</integer>
+		<integer>-260</integer>
+		<integer>-250</integer>
 	</array>
 	<key>styleMapStyleName</key>
 	<string>regular</string>

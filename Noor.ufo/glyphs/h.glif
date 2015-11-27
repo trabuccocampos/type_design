@@ -1,38 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="h" format="1">
-  <advance width="633"/>
+  <advance width="624"/>
   <unicode hex="0068"/>
   <outline>
     <contour>
-      <point x="110" y="46" type="line"/>
-      <point x="200" y="46" type="line"/>
-      <point x="200" y="727" type="line"/>
-      <point x="110" y="727" type="line"/>
+      <point x="101" y="46" type="line"/>
+      <point x="191" y="46" type="line"/>
+      <point x="191" y="727" type="line"/>
+      <point x="101" y="727" type="line"/>
     </contour>
     <contour>
-      <point x="443" y="46" type="line"/>
-      <point x="533" y="46" type="line"/>
-      <point x="533" y="387" type="line"/>
-      <point x="533" y="464"/>
-      <point x="480" y="510"/>
-      <point x="390" y="510" type="curve" smooth="yes"/>
-      <point x="329" y="510"/>
-      <point x="253" y="483"/>
-      <point x="185" y="437" type="curve"/>
-      <point x="185" y="411" type="line"/>
-      <point x="247" y="450"/>
-      <point x="298" y="470"/>
-      <point x="339" y="470" type="curve" smooth="yes"/>
-      <point x="401" y="470"/>
-      <point x="443" y="429"/>
-      <point x="443" y="367" type="curve"/>
+      <point x="434" y="46" type="line"/>
+      <point x="524" y="46" type="line"/>
+      <point x="524" y="387" type="line"/>
+      <point x="524" y="464"/>
+      <point x="471" y="510"/>
+      <point x="381" y="510" type="curve" smooth="yes"/>
+      <point x="320" y="510"/>
+      <point x="244" y="483"/>
+      <point x="176" y="437" type="curve"/>
+      <point x="176" y="411" type="line"/>
+      <point x="238" y="450"/>
+      <point x="289" y="470"/>
+      <point x="330" y="470" type="curve" smooth="yes"/>
+      <point x="392" y="470"/>
+      <point x="434" y="429"/>
+      <point x="434" y="367" type="curve"/>
     </contour>
-    <component base="SerifSpur" xOffset="54" yOffset="300"/>
-    <component base="Serif_lc" xOffset="45"/>
-    <component base="Serif_lc" xOffset="378"/>
+    <component base="SerifSpur" xOffset="45" yOffset="300"/>
+    <component base="Serif_lc" xOffset="36"/>
+    <component base="Serif_lc" xOffset="369"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|n</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>n</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>Regular Nov 21 15, 18:14</key>
@@ -52,7 +56,7 @@
                 <integer>0</integer>
                 <integer>1</integer>
                 <integer>29</integer>
-                <integer>300</integer>
+                <integer>290</integer>
               </array>
             </dict>
             <dict>
