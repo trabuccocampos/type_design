@@ -27,7 +27,7 @@
       <point x="434" y="429"/>
       <point x="434" y="367" type="curve"/>
     </contour>
-    <component base="SerifSpur" xOffset="45" yOffset="300"/>
+    <component base="SerifSpur" xOffset="45" yOffset="290"/>
     <component base="Serif_lc" xOffset="36"/>
     <component base="Serif_lc" xOffset="369"/>
   </outline>
