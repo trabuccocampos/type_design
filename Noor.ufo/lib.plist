@@ -155,6 +155,16 @@
 		<string>SerifCaps</string>
 		<string>Serif_lc</string>
 		<string>SerifSpur</string>
+		<string>zero</string>
+		<string>one</string>
+		<string>two</string>
+		<string>three</string>
+		<string>four</string>
+		<string>five</string>
+		<string>six</string>
+		<string>seven</string>
+		<string>eight</string>
+		<string>nine</string>
 		<string>colon</string>
 		<string>comma</string>
 		<string>ellipsis</string>
@@ -170,6 +180,9 @@
 		<string>quoteleft</string>
 		<string>quoteright</string>
 		<string>quotesinglbase</string>
+		<string>dollar</string>
+		<string>euro</string>
+		<string>yen</string>
 		<string>ampersand</string>
 		<string>Serif_lc_long</string>
 	</array>

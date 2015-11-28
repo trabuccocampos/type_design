@@ -7,6 +7,11 @@
 		<key>d</key>
 		<integer>-30</integer>
 	</dict>
+	<key>B</key>
+	<dict>
+		<key>i</key>
+		<integer>-40</integer>
+	</dict>
 	<key>K</key>
 	<dict>
 		<key>o</key>
@@ -32,6 +37,33 @@
 		<integer>-120</integer>
 		<key>V</key>
 		<integer>-100</integer>
+		<key>a</key>
+		<integer>-50</integer>
+		<key>e</key>
+		<integer>-90</integer>
+		<key>i</key>
+		<integer>-30</integer>
+		<key>o</key>
+		<integer>-90</integer>
+		<key>u</key>
+		<integer>-90</integer>
+		<key>v</key>
+		<integer>-120</integer>
+		<key>w</key>
+		<integer>-120</integer>
+		<key>y</key>
+		<integer>-140</integer>
+	</dict>
+	<key>T</key>
+	<dict>
+		<key>a</key>
+		<integer>-60</integer>
+		<key>e</key>
+		<integer>-60</integer>
+		<key>o</key>
+		<integer>-60</integer>
+		<key>u</key>
+		<integer>-60</integer>
 	</dict>
 	<key>V</key>
 	<dict>
@@ -42,7 +74,17 @@
 	</dict>
 	<key>W</key>
 	<dict>
+		<key>a</key>
+		<integer>-120</integer>
+		<key>e</key>
+		<integer>-120</integer>
+		<key>i</key>
+		<integer>-90</integer>
 		<key>o</key>
+		<integer>-120</integer>
+		<key>u</key>
+		<integer>-110</integer>
+		<key>y</key>
 		<integer>-120</integer>
 	</dict>
 	<key>X</key>
@@ -60,7 +102,12 @@
 	<key>c</key>
 	<dict>
 		<key>k</key>
-		<integer>-40</integer>
+		<integer>-20</integer>
+	</dict>
+	<key>e</key>
+	<dict>
+		<key>x</key>
+		<integer>-20</integer>
 	</dict>
 	<key>f</key>
 	<dict>
@@ -81,6 +128,8 @@
 	</dict>
 	<key>i</key>
 	<dict>
+		<key>g</key>
+		<integer>-20</integer>
 		<key>p</key>
 		<integer>-10</integer>
 	</dict>
@@ -89,10 +138,17 @@
 		<key>o</key>
 		<integer>20</integer>
 	</dict>
+	<key>m</key>
+	<dict>
+		<key>y</key>
+		<integer>-60</integer>
+	</dict>
 	<key>o</key>
 	<dict>
 		<key>v</key>
 		<integer>-45</integer>
+		<key>w</key>
+		<integer>-20</integer>
 	</dict>
 	<key>quotesingle</key>
 	<dict>
@@ -114,6 +170,8 @@
 		<integer>-60</integer>
 		<key>e</key>
 		<integer>-45</integer>
+		<key>o</key>
+		<integer>-20</integer>
 	</dict>
 	<key>w</key>
 	<dict>
@@ -128,6 +186,8 @@
 		<integer>-60</integer>
 		<key>period</key>
 		<integer>-120</integer>
+		<key>space</key>
+		<integer>0</integer>
 	</dict>
 </dict>
 </plist>

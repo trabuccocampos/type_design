@@ -28,6 +28,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>10</integer>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>height 15</key>

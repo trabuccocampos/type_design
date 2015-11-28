@@ -6,62 +6,62 @@
     <contour>
       <point x="358" y="280" type="line"/>
       <point x="391" y="280" type="line"/>
-      <point x="626" y="647" type="line"/>
-      <point x="576" y="647" type="line"/>
+      <point x="616" y="647" type="line"/>
+      <point x="566" y="647" type="line"/>
       <point x="389" y="347" type="line"/>
       <point x="421" y="347" type="line"/>
-      <point x="240" y="642" type="line"/>
-      <point x="125" y="642" type="line"/>
+      <point x="250" y="642" type="line"/>
+      <point x="135" y="642" type="line"/>
     </contour>
     <contour>
-      <point x="667" y="700"/>
-      <point x="632" y="695"/>
-      <point x="613" y="695" type="curve"/>
-      <point x="593" y="695"/>
-      <point x="558" y="700"/>
-      <point x="529" y="700" type="curve"/>
-      <point x="495" y="700" type="line"/>
-      <point x="495" y="680" type="line"/>
-      <point x="553" y="673" type="line"/>
-      <point x="572" y="669"/>
-      <point x="583" y="665"/>
-      <point x="576" y="647" type="curve"/>
-      <point x="626" y="647" type="line"/>
-      <point x="633" y="663"/>
-      <point x="652" y="668"/>
-      <point x="671" y="673" type="curve"/>
-      <point x="710" y="680" type="line"/>
-      <point x="710" y="700" type="line"/>
-      <point x="696" y="700" type="line"/>
+      <point x="657" y="700"/>
+      <point x="622" y="695"/>
+      <point x="603" y="695" type="curve"/>
+      <point x="583" y="695"/>
+      <point x="548" y="700"/>
+      <point x="519" y="700" type="curve"/>
+      <point x="485" y="700" type="line"/>
+      <point x="485" y="680" type="line"/>
+      <point x="543" y="673" type="line"/>
+      <point x="562" y="669"/>
+      <point x="573" y="665"/>
+      <point x="566" y="647" type="curve"/>
+      <point x="616" y="647" type="line"/>
+      <point x="623" y="663"/>
+      <point x="642" y="668"/>
+      <point x="661" y="673" type="curve"/>
+      <point x="700" y="680" type="line"/>
+      <point x="700" y="700" type="line"/>
+      <point x="686" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="40" y="700" type="line"/>
-      <point x="40" y="680" type="line"/>
-      <point x="90" y="671" type="line"/>
-      <point x="104" y="667"/>
-      <point x="118" y="656"/>
-      <point x="125" y="642" type="curve"/>
-      <point x="240" y="642" type="line"/>
-      <point x="235" y="654"/>
-      <point x="245" y="666"/>
-      <point x="265" y="671" type="curve"/>
-      <point x="325" y="680" type="line"/>
-      <point x="325" y="700" type="line"/>
-      <point x="250" y="700" type="line"/>
-      <point x="230" y="700"/>
-      <point x="206" y="696"/>
-      <point x="186" y="696" type="curve"/>
-      <point x="166" y="696"/>
-      <point x="135" y="700"/>
-      <point x="115" y="700" type="curve"/>
+      <point x="50" y="700" type="line"/>
+      <point x="50" y="680" type="line"/>
+      <point x="100" y="671" type="line"/>
+      <point x="114" y="667"/>
+      <point x="128" y="656"/>
+      <point x="135" y="642" type="curve"/>
+      <point x="250" y="642" type="line"/>
+      <point x="245" y="654"/>
+      <point x="255" y="666"/>
+      <point x="275" y="671" type="curve"/>
+      <point x="335" y="680" type="line"/>
+      <point x="335" y="700" type="line"/>
+      <point x="260" y="700" type="line"/>
+      <point x="240" y="700"/>
+      <point x="216" y="696"/>
+      <point x="196" y="696" type="curve"/>
+      <point x="176" y="696"/>
+      <point x="145" y="700"/>
+      <point x="125" y="700" type="curve"/>
     </contour>
     <contour>
-      <point x="437" y="20" type="line"/>
-      <point x="437" y="354" type="line"/>
-      <point x="327" y="354" type="line"/>
-      <point x="327" y="20" type="line"/>
+      <point x="432" y="20" type="line"/>
+      <point x="432" y="363" type="line"/>
+      <point x="322" y="363" type="line"/>
+      <point x="322" y="20" type="line"/>
     </contour>
-    <component base="SerifCaps" xOffset="252"/>
+    <component base="SerifCaps" xOffset="247"/>
   </outline>
   <lib>
     <dict>
