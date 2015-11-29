@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.osf" format="1">
+  <advance width="599"/>
+  <outline>
+    <contour>
+      <point x="456" y="-250" type="line"/>
+      <point x="456" y="491" type="line"/>
+      <point x="346" y="361" type="line"/>
+      <point x="346" y="-250" type="line"/>
+    </contour>
+    <contour>
+      <point x="456" y="510" type="line"/>
+      <point x="424" y="510" type="line"/>
+      <point x="50" y="63" type="line" smooth="yes"/>
+      <point x="50" y="0" type="line"/>
+      <point x="79" y="41" type="line"/>
+      <point x="456" y="487" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="39" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="539" y="0" type="line"/>
+      <point x="539" y="60" type="line"/>
+      <point x="80" y="60" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=four</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=four</string>
+    </dict>
+  </lib>
+</glyph>

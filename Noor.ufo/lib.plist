@@ -103,8 +103,6 @@
 		<string>F</string>
 		<string>G</string>
 		<string>H</string>
-		<string>H.001</string>
-		<string>H.002</string>
 		<string>I</string>
 		<string>J</string>
 		<string>K</string>
@@ -155,6 +153,16 @@
 		<string>SerifCaps</string>
 		<string>Serif_lc</string>
 		<string>SerifSpur</string>
+		<string>K.ss01</string>
+		<string>Q.ss01</string>
+		<string>R.ss01</string>
+		<string>a.ss01</string>
+		<string>t.ss01</string>
+		<string>f_f</string>
+		<string>f_f_i</string>
+		<string>f_f_l</string>
+		<string>f_i</string>
+		<string>f_l</string>
 		<string>zero</string>
 		<string>one</string>
 		<string>two</string>
@@ -165,12 +173,27 @@
 		<string>seven</string>
 		<string>eight</string>
 		<string>nine</string>
+		<string>zero.osf</string>
+		<string>one.osf</string>
+		<string>two.osf</string>
+		<string>three.osf</string>
+		<string>four.osf</string>
+		<string>five.osf</string>
+		<string>six.osf</string>
+		<string>seven.osf</string>
+		<string>eight.osf</string>
+		<string>nine.osf</string>
 		<string>colon</string>
 		<string>comma</string>
 		<string>ellipsis</string>
+		<string>exclam</string>
 		<string>period</string>
+		<string>question</string>
 		<string>quotesingle</string>
 		<string>semicolon</string>
+		<string>exclam.ss01</string>
+		<string>parenleft</string>
+		<string>parenright</string>
 		<string>emdash</string>
 		<string>endash</string>
 		<string>hyphen</string>
@@ -183,6 +206,7 @@
 		<string>dollar</string>
 		<string>euro</string>
 		<string>yen</string>
+		<string>at</string>
 		<string>ampersand</string>
 		<string>Serif_lc_long</string>
 	</array>
