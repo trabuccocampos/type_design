@@ -174,8 +174,6 @@
 	<string>q.glif</string>
 	<key>question</key>
 	<string>question.glif</string>
-	<key>quotedblbase</key>
-	<string>quotedblbase.glif</string>
 	<key>quotedblleft</key>
 	<string>quotedblleft.glif</string>
 	<key>quotedblright</key>
@@ -184,8 +182,6 @@
 	<string>quoteleft.glif</string>
 	<key>quoteright</key>
 	<string>quoteright.glif</string>
-	<key>quotesinglbase</key>
-	<string>quotesinglbase.glif</string>
 	<key>quotesingle</key>
 	<string>quotesingle.glif</string>
 	<key>r</key>
@@ -226,6 +222,8 @@
 	<string>x.glif</string>
 	<key>y</key>
 	<string>y.glif</string>
+	<key>y.ss01</key>
+	<string>y.ss01.glif</string>
 	<key>yen</key>
 	<string>yen.glif</string>
 	<key>z</key>

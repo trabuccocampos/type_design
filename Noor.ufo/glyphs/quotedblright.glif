@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblright" format="1">
-  <advance width="242"/>
+  <advance width="322"/>
   <unicode hex="201D"/>
   <outline>
     <component base="quoteright"/>
-    <component base="quoteright" xOffset="101"/>
+    <component base="quoteright" xOffset="141"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=quoteright</string>
+    </dict>
+  </lib>
 </glyph>

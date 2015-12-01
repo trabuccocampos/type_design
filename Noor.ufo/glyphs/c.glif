@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="c" format="1">
-  <advance width="517"/>
+  <advance width="527"/>
   <unicode hex="0063"/>
   <outline>
     <contour>
@@ -38,6 +38,8 @@
       <integer>0</integer>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=e</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>Regular Nov 28 15, 11:32</key>
