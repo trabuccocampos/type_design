@@ -39,17 +39,17 @@ sub nine by nine.osf;
 } onum;
 
 feature dlig {
-# automatic
-sub f i by f_i;
-sub f l by f_l;
+
 } dlig;
 
 feature liga {
 sub f f l by f_f_l;
 sub f f i by f_f_i;
+sub f f j by f_f_j;
 sub f f by f_f;
 sub f i by f_i;
 sub f l by f_l;
+sub f j by f_j;
 } liga;
 
 feature salt {
@@ -58,7 +58,11 @@ sub K by K.ss01;
 sub Q by Q.ss01;
 sub R by R.ss01;
 sub a by a.ss01;
+sub h by h.ss01;
+sub m by m.ss01;
+sub n by n.ss01;
 sub t by t.ss01;
+sub y by y.ss01;
 sub exclam by exclam.ss01;
 } salt;
 
@@ -68,7 +72,11 @@ sub K by K.ss01;
 sub Q by Q.ss01;
 sub R by R.ss01;
 sub a by a.ss01;
+sub h by h.ss01;
+sub m by m.ss01;
+sub n by n.ss01;
 sub t by t.ss01;
+sub y by y.ss01;
 sub exclam by exclam.ss01;
 } ss01;
 

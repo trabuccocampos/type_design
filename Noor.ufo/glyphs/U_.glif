@@ -50,9 +50,9 @@
       <point x="635" y="683" type="line"/>
       <point x="635" y="241" type="line" smooth="yes"/>
       <point x="635" y="116"/>
-      <point x="551" y="32"/>
-      <point x="426" y="32" type="curve" smooth="yes"/>
-      <point x="311" y="32"/>
+      <point x="551" y="42"/>
+      <point x="426" y="42" type="curve" smooth="yes"/>
+      <point x="311" y="42"/>
       <point x="235" y="132"/>
       <point x="235" y="281" type="curve" smooth="yes"/>
       <point x="235" y="690" type="line"/>
@@ -70,6 +70,9 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>H</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>
