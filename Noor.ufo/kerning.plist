@@ -39,8 +39,6 @@
 		<integer>-100</integer>
 		<key>a</key>
 		<integer>-50</integer>
-		<key>e</key>
-		<integer>-90</integer>
 		<key>i</key>
 		<integer>-30</integer>
 		<key>o</key>
@@ -96,8 +94,6 @@
 	</dict>
 	<key>a</key>
 	<dict>
-		<key>b</key>
-		<integer>-50</integer>
 		<key>y.ss01</key>
 		<integer>-60</integer>
 	</dict>
@@ -119,8 +115,6 @@
 	</dict>
 	<key>f</key>
 	<dict>
-		<key>a</key>
-		<integer>-90</integer>
 		<key>e</key>
 		<integer>-90</integer>
 		<key>f</key>
