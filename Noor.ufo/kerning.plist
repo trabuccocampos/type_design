@@ -41,8 +41,6 @@
 		<integer>-50</integer>
 		<key>i</key>
 		<integer>-30</integer>
-		<key>o</key>
-		<integer>-90</integer>
 		<key>u</key>
 		<integer>-90</integer>
 		<key>v</key>
@@ -57,8 +55,6 @@
 		<key>a</key>
 		<integer>-60</integer>
 		<key>e</key>
-		<integer>-60</integer>
-		<key>o</key>
 		<integer>-60</integer>
 		<key>u</key>
 		<integer>-60</integer>
