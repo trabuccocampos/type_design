@@ -5,8 +5,10 @@
   <outline>
     <contour>
       <point x="115" y="174" type="line"/>
+      <point x="145" y="609" type="line"/>
       <point x="145" y="700" type="line"/>
       <point x="43" y="700" type="line"/>
+      <point x="43" y="609" type="line"/>
       <point x="75" y="174" type="line"/>
     </contour>
     <component base="period"/>

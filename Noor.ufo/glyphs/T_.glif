@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="1">
-  <advance width="702"/>
+  <advance width="710"/>
   <unicode hex="0054"/>
   <outline>
     <contour>
@@ -22,13 +22,13 @@
       <point x="277" y="29" type="curve" smooth="yes"/>
       <point x="210" y="20" type="line"/>
       <point x="210" y="0" type="line"/>
-      <point x="289" y="0" type="line" smooth="yes"/>
-      <point x="304" y="0"/>
-      <point x="330" y="4"/>
+      <point x="275" y="0" type="line" smooth="yes"/>
+      <point x="295" y="0"/>
+      <point x="335" y="4"/>
       <point x="355" y="4" type="curve" smooth="yes"/>
-      <point x="380" y="4"/>
-      <point x="404" y="0"/>
-      <point x="419" y="0" type="curve" smooth="yes"/>
+      <point x="375" y="4"/>
+      <point x="415" y="0"/>
+      <point x="435" y="0" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="522" y="666" type="line" smooth="yes"/>
