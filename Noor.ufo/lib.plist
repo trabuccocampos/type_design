@@ -199,6 +199,7 @@
 		<string>quotesingle</string>
 		<string>semicolon</string>
 		<string>exclam.ss01</string>
+		<string>question.ss01</string>
 		<string>parenleft</string>
 		<string>parenright</string>
 		<string>emdash</string>
