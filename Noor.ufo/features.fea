@@ -62,8 +62,10 @@ sub h by h.ss01;
 sub m by m.ss01;
 sub n by n.ss01;
 sub t by t.ss01;
+sub u by u.ss01;
 sub y by y.ss01;
 sub exclam by exclam.ss01;
+sub question by question.ss01;
 } salt;
 
 feature ss01 {
@@ -76,7 +78,9 @@ sub h by h.ss01;
 sub m by m.ss01;
 sub n by n.ss01;
 sub t by t.ss01;
+sub u by u.ss01;
 sub y by y.ss01;
 sub exclam by exclam.ss01;
+sub question by question.ss01;
 } ss01;
 

@@ -33,18 +33,12 @@
 	</dict>
 	<key>R</key>
 	<dict>
-		<key>O</key>
-		<integer>-120</integer>
 		<key>V</key>
 		<integer>-100</integer>
 		<key>a</key>
 		<integer>-50</integer>
-		<key>e</key>
-		<integer>-90</integer>
 		<key>i</key>
 		<integer>-30</integer>
-		<key>o</key>
-		<integer>-90</integer>
 		<key>u</key>
 		<integer>-90</integer>
 		<key>v</key>
@@ -59,8 +53,6 @@
 		<key>a</key>
 		<integer>-60</integer>
 		<key>e</key>
-		<integer>-60</integer>
-		<key>o</key>
 		<integer>-60</integer>
 		<key>u</key>
 		<integer>-60</integer>
@@ -96,8 +88,6 @@
 	</dict>
 	<key>a</key>
 	<dict>
-		<key>b</key>
-		<integer>-50</integer>
 		<key>y.ss01</key>
 		<integer>-60</integer>
 	</dict>
@@ -119,15 +109,9 @@
 	</dict>
 	<key>f</key>
 	<dict>
-		<key>a</key>
-		<integer>-90</integer>
-		<key>e</key>
-		<integer>-90</integer>
 		<key>f</key>
 		<integer>-90</integer>
 		<key>g</key>
-		<integer>-40</integer>
-		<key>i</key>
 		<integer>-40</integer>
 		<key>j</key>
 		<integer>-60</integer>
@@ -147,8 +131,6 @@
 	</dict>
 	<key>i</key>
 	<dict>
-		<key>g</key>
-		<integer>-20</integer>
 		<key>p</key>
 		<integer>-10</integer>
 	</dict>
@@ -182,15 +164,6 @@
 		<integer>-30</integer>
 		<key>e</key>
 		<integer>-30</integer>
-	</dict>
-	<key>v</key>
-	<dict>
-		<key>a</key>
-		<integer>-60</integer>
-		<key>e</key>
-		<integer>-45</integer>
-		<key>o</key>
-		<integer>-20</integer>
 	</dict>
 	<key>w</key>
 	<dict>

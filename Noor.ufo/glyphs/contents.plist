@@ -180,6 +180,8 @@
 	<string>q.glif</string>
 	<key>question</key>
 	<string>question.glif</string>
+	<key>question.ss01</key>
+	<string>question.ss01.glif</string>
 	<key>quotedblleft</key>
 	<string>quotedblleft.glif</string>
 	<key>quotedblright</key>
